@@ -12,6 +12,8 @@ namespace HelloWorldFinal
         {
             Console.WriteLine();
             Console.WriteLine("Hello World");
+            Console.WriteLine();
+            Console.WriteLine("Hows it going");
             Console.ReadKey(true);
         }
     }
